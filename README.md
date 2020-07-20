@@ -1,5 +1,11 @@
-### Hi there 👋! I am myself (who would've guessed, right?). I'm a University student studying Software Engineering.
+<h1 align="center">404</h1>
 
-I fear what's commonly known as *fRoNtEnD dEvElOpMeNt*, and protect myself against it with backend development. When it comes to coding, I am obsessed with the words "efficiency" and "legibility". If my code doesn't meet these requirements to the best of my standards, I will trash it and rewrite it all over again as many times as I need to do it until it does.
+<p align="center"><strong style="color: #787878">There isn't a GitHub Pages site here.</strong></p>
 
-💬 Motto: *"If you want a change, lead THE change."*
+<p align="center">
+If you're trying to publish one, <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">read the full documentation</a> to learn how to set up <br><strong style="color: #787880"> GitHub Pages </strong> for your repository, organization, or user account.
+</p>
+<br>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> — <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
+</p>
